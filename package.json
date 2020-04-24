@@ -1,0 +1,29 @@
+{
+  "name": "hiring-tests",
+  "version": "1.0.0",
+  "description": "Hiring test for Kovi",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deyvedvm/hiring-tests.git"
+  },
+  "keywords": [
+    "serverless",
+    "typescript",
+    "aws"
+  ],
+  "author": "Deyve Vieira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deyvedvm/hiring-tests/issues"
+  },
+  "homepage": "https://github.com/deyvedvm/hiring-tests#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.23",
+    "jest": "^24.9.0",
+    "typescript": "^3.7.2"
+  }
+}
